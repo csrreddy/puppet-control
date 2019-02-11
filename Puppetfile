@@ -33,6 +33,6 @@ mod 'ntp',
 #    :git => 'git@github.com:chandrasro/puppet-profile-1.git',
 #    :ref => 'master'
 
-mod 'nginx',
-    :git => 'git@github.com:csrreddy/puppet-nginx.git',
-    :ref => 'master'
+#mod 'nginx',
+#    :git => 'git@github.com:csrreddy/puppet-nginx.git',
+#    :ref => 'master'
