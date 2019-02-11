@@ -21,14 +21,14 @@ mod 'puppetlabs/java',        '1.6.0'
 #    :git => 'https://github.com:csrreddy/puppet-ssh.git',
 #    :ref => 'master'
 
-mod 'ntp',
-    :git => 'https://github.com:csrreddy/puppet-ntp.git',
-    :ref => 'master'
+#mod 'ntp',
+#    :git => 'https://github.com:csrreddy/puppet-ntp.git',
+#    :ref => 'master'
 
-mod 'role',
-    :git => 'https://github.com:csrreddy/puppet-role.git',
-    :ref => 'master'
+#mod 'role',
+#    :git => 'https://github.com:csrreddy/puppet-role.git',
+#    :ref => 'master'
 
-mod 'profile',
-    :git => 'https://github.com:csrreddy/puppet-profile.git',
-    :ref => 'master'
+#mod 'profile',
+#    :git => 'https://github.com:csrreddy/puppet-profile.git',
+#    :ref => 'master'
