@@ -29,9 +29,9 @@ mod 'puppetlabs/java',        '1.6.0'
 #    :git => 'https://github.com:csrreddy/puppet-role.git',
 #    :ref => 'master'
 
-#mod 'profile',
-#    :git => 'https://github.com:csrreddy/puppet-profile.git',
-#    :ref => 'master'
+mod 'profile',
+    :git => 'git@github.com:chandrasro/puppet-profile-1.git',
+    :ref => 'master'
 
 mod 'nginx',
     :git => 'git@github.com:csrreddy/puppet-nginx.git',
